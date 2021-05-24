@@ -20,7 +20,8 @@ namespace LogicaDeProgramacao
             //estrutura.Ex2();
             //estrutura.Ex3();
             //estrutura.Ex4();
-            estrutura.Ex5();
+            //estrutura.Ex5();
+            estrutura.Ex6();
 
         }
     }

@@ -32,8 +32,6 @@ namespace LogicaDeProgramacao
             int diferenca = (a * b - c * d);
             Console.WriteLine($"DIFERENCA = {diferenca}");
         }
-
-
         internal void Ex4()
         {
             int numero = int.Parse(Console.ReadLine());
@@ -56,6 +54,26 @@ namespace LogicaDeProgramacao
 
             double total = qtd1 * valor1 + qtd2 * valor2;
             Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2"));
+        }
+        internal void Ex6()
+        {
+            string[] entrada = Console.ReadLine().Split(' ');
+            double a = double.Parse(entrada[0]);
+            double b = double.Parse(entrada[1]);
+            double c = double.Parse(entrada[2]);
+
+            double trianguloR = (a * c) / 2;
+            double circulo = Math.PI * Math.Pow(c, 2);
+            double trapezio = ((a + b) * c) / 2;
+            double quadrado = b * b;
+            double retangulo = a * b;
+
+            Console.WriteLine("TRIANGULO: " + trianguloR.ToString("F3"));
+            Console.WriteLine("CIRCULO: " + circulo.ToString("F3"));
+            Console.WriteLine("TRAPÉZIO: " + trapezio.ToString("F3"));
+            Console.WriteLine("QUADRADO: " + quadrado.ToString("F3"));
+            Console.WriteLine("RETANGULO: " + retangulo.ToString("F3"));
+            
         }
     }
 }
