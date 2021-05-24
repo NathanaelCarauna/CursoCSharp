@@ -17,7 +17,8 @@ namespace LogicaDeProgramacao
             Console.WriteLine("\n############################EXERCÍCIOS PROPOSTOS######################");
             EstruturaSequencialExPropostos estrutura = new EstruturaSequencialExPropostos();
             //estrutura.Ex1();
-            estrutura.Ex2();
+            //estrutura.Ex2();
+            estrutura.Ex3();
 
         }
     }
