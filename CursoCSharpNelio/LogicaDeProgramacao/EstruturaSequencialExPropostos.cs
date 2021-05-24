@@ -13,5 +13,14 @@ namespace LogicaDeProgramacao
             int soma = n1 + n2;
             Console.WriteLine("SOMA = {0}", soma.ToString());
         }
+
+        internal void Ex2()
+        {
+            double pi = 3.14159;
+            double raio = double.Parse(Console.ReadLine());
+            double area = pi * Math.Pow(raio, 2);
+
+            Console.WriteLine($"A={area.ToString("F4")}");
+        }
     }
 }
