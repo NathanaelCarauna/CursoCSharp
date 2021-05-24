@@ -33,6 +33,7 @@ namespace LogicaDeProgramacao
             Console.WriteLine($"DIFERENCA = {diferenca}");
         }
 
+
         internal void Ex4()
         {
             int numero = int.Parse(Console.ReadLine());
@@ -41,6 +42,20 @@ namespace LogicaDeProgramacao
             double salario = valorPorHora * horasTrabalhadas;
             Console.WriteLine("NUMBER = " + numero);
             Console.WriteLine("SALARY = U$ " + salario.ToString("F2"));
+        }
+        internal void Ex5()
+        {
+            string[] entrada = Console.ReadLine().Split(' ');
+            int codigo1 = int.Parse(entrada[0]);
+            int qtd1 = int.Parse(entrada[1]);
+            double valor1 = double.Parse(entrada[2]);
+            entrada = Console.ReadLine().Split(' ');
+            int codigo2 = int.Parse(entrada[0]);
+            int qtd2 = int.Parse(entrada[1]);
+            double valor2 = double.Parse(entrada[2]);
+
+            double total = qtd1 * valor1 + qtd2 * valor2;
+            Console.WriteLine("VALOR A PAGAR: R$ " + total.ToString("F2"));
         }
     }
 }
