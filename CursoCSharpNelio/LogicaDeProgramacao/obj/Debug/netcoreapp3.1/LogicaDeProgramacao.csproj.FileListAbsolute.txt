@@ -1,0 +1,13 @@
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.exe
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.deps.json
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.runtimeconfig.json
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.runtimeconfig.dev.json
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.dll
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.pdb
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.csprojAssemblyReference.cache
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.AssemblyInfo.cs
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.dll
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.pdb
+C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.genruntimeconfig.cache
