@@ -7,12 +7,17 @@ namespace LogicaDeProgramacao
     {
         static void Main(string[] args)
         {
-            DataOutput dataOutput = new DataOutput();
-            dataOutput.Exercicio();
-            Console.WriteLine("----------------------------FIM EX1----------------------");
-            DataInput dataInput = new DataInput();
-            dataInput.Exercicio();
-            Console.WriteLine("----------------------------FIM EX2----------------------");
+            //DataOutput dataOutput = new DataOutput();
+            //dataOutput.Exercicio();
+            //Console.WriteLine("----------------------------FIM EX1----------------------");
+
+            //DataInput dataInput = new DataInput();
+            //dataInput.Exercicio();
+            //Console.WriteLine("----------------------------FIM EX2----------------------");
+            Console.WriteLine("\n############################EXERCÍCIOS PROPOSTOS######################");
+            EstruturaSequencialExPropostos estrutura = new EstruturaSequencialExPropostos();
+            estrutura.Ex1();
+
         }
     }
 }
