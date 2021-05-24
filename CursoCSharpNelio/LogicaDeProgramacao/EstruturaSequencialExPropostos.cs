@@ -32,5 +32,15 @@ namespace LogicaDeProgramacao
             int diferenca = (a * b - c * d);
             Console.WriteLine($"DIFERENCA = {diferenca}");
         }
+
+        internal void Ex4()
+        {
+            int numero = int.Parse(Console.ReadLine());
+            int horasTrabalhadas = int.Parse(Console.ReadLine());
+            double valorPorHora = double.Parse(Console.ReadLine());
+            double salario = valorPorHora * horasTrabalhadas;
+            Console.WriteLine("NUMBER = " + numero);
+            Console.WriteLine("SALARY = U$ " + salario.ToString("F2"));
+        }
     }
 }
