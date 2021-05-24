@@ -11,3 +11,16 @@ C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao
 C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.dll
 C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.pdb
 C:\Users\Midiavox\source\repos\CursoC#Nelio\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.genruntimeconfig.cache
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.exe
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.deps.json
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.runtimeconfig.json
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.runtimeconfig.dev.json
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.dll
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\bin\Debug\netcoreapp3.1\LogicaDeProgramacao.pdb
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.csprojAssemblyReference.cache
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.AssemblyInfoInputs.cache
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.AssemblyInfo.cs
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.dll
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.pdb
+C:\Users\Nathanael\Desktop\Pessoal\Estudos\C#\CursoCSharp\CursoCSharpNelio\LogicaDeProgramacao\obj\Debug\netcoreapp3.1\LogicaDeProgramacao.genruntimeconfig.cache
