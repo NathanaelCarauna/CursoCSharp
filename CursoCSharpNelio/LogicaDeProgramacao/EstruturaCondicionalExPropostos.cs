@@ -51,6 +51,7 @@ namespace LogicaDeProgramacao
             }
         }
 
+
         internal void Ex4()
         {
             string[] s = Console.ReadLine().Split(' ');
@@ -138,6 +139,50 @@ namespace LogicaDeProgramacao
             {
                 Console.WriteLine($"Intervalo {intervalo}");
             }
+        }
+
+        internal void Ex7()
+        {
+            string[] s = Console.ReadLine().Split(' ');
+            double x, y;
+            x = double.Parse(s[0]);
+            y = double.Parse(s[1]);
+            string posicao = "";
+
+            if (x == y && x == 0)
+            {
+                posicao = "Origem";
+            }
+            else if (x == 0 && y != 0)
+            {
+                posicao = "Eixo Y";
+            }
+            else if (y == 0 && x != 0)
+            {
+                posicao = "Eixo X";
+            }
+            else if (x > 0)
+            {
+                if (y > 0)
+                {
+                    posicao = "Q1";
+                }
+                if (y < 0)
+                {
+                    posicao = "Q4";
+                }
+            }else if (x < 0)
+            {
+                if (y > 0)
+                {
+                    posicao = "Q2";
+                }
+                if (y < 0)
+                {
+                    posicao = "Q3";
+                }
+            }
+            Console.WriteLine(posicao);
         }
     }
 }
