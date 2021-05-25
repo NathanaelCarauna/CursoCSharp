@@ -24,8 +24,8 @@ namespace LogicaDeProgramacao
             //estrutura.Ex6();
             EstruturaCondicionalExPropostos exercicios = new EstruturaCondicionalExPropostos();
             //exercicios.Ex1();
-            exercicios.Ex2();
-
+            //exercicios.Ex2();
+            exercicios.Ex3();
         }
     }
 }
