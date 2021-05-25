@@ -50,6 +50,7 @@ namespace LogicaDeProgramacao
                 Console.WriteLine("Não sao Multiplos");
             }
         }
+
         internal void Ex4()
         {
             string[] s = Console.ReadLine().Split(' ');
@@ -102,7 +103,41 @@ namespace LogicaDeProgramacao
             }
             total = valor * qtd;
             Console.WriteLine($"Total: R$ {total:F2}");
+        }
+        internal void Ex6()
+        {
+            double valor = double.Parse(Console.ReadLine());
+            string intervalo = "";
 
+            if (valor < 0 || valor > 100)
+            {
+                intervalo = "Fora de intervalo";
+            }
+            else if (valor >= 0 && valor <= 25)
+            {
+                intervalo = "[0,25]";
+            }
+            else if (valor <= 50)
+            {
+                intervalo = "(25,50]";
+            }
+            else if (valor <= 75)
+            {
+                intervalo = "(50,75]";
+            }
+            else if (valor <= 100)
+            {
+                intervalo = "(75,100]";
+            }
+
+            if (intervalo.Equals("Fora de intervalo"))
+            {
+                Console.WriteLine(intervalo);
+            }
+            else
+            {
+                Console.WriteLine($"Intervalo {intervalo}");
+            }
         }
     }
 }
