@@ -171,7 +171,8 @@ namespace LogicaDeProgramacao
                 {
                     posicao = "Q4";
                 }
-            }else if (x < 0)
+            }
+            else if (x < 0)
             {
                 if (y > 0)
                 {
@@ -183,6 +184,34 @@ namespace LogicaDeProgramacao
                 }
             }
             Console.WriteLine(posicao);
+        }
+
+        internal void Ex8()
+        {
+            double salario = double.Parse(Console.ReadLine());
+            double total = 0;
+
+            if (salario >= 0 && salario <= 2000)
+            {
+                Console.WriteLine("Isento");
+                return;
+            }
+            else if (salario <= 3000)
+            {
+                total = 0.08 * (salario - 2000);
+            }
+            else if (salario <= 4500)
+            {
+                total = (salario - 3000) * 0.18 + 1000 * 0.08;
+            }
+            else if (salario > 4500)
+            {
+                total = (salario - 4500) * 0.28 + 1500 * 0.18 + 1000 * 0.08;
+            }
+
+            Console.WriteLine($"R$ {total:F2}");
+
+
         }
     }
 }
