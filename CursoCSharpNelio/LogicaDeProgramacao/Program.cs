@@ -26,7 +26,8 @@ namespace LogicaDeProgramacao
             //exercicios.Ex1();
             //exercicios.Ex2();
             //exercicios.Ex3();
-            exercicios.Ex4();
+            //exercicios.Ex4();
+            exercicios.Ex5();
         }
     }
 }

@@ -50,7 +50,6 @@ namespace LogicaDeProgramacao
                 Console.WriteLine("Não sao Multiplos");
             }
         }
-
         internal void Ex4()
         {
             string[] s = Console.ReadLine().Split(' ');
@@ -72,6 +71,37 @@ namespace LogicaDeProgramacao
                 duracao = fim + 24 - inicio;
             }
             Console.WriteLine("O JOGO DUROU {0} HORA(S)", duracao);
+
+        }
+        internal void Ex5()
+        {
+            string[] s = Console.ReadLine().Split(' ');
+            int codigo = int.Parse(s[0]);
+            int qtd = int.Parse(s[1]);
+            double valor = 0, total = 0;
+
+            if (codigo == 1)
+            {
+                valor = 4;
+            }
+            else if (codigo == 2)
+            {
+                valor = 4.5;
+            }
+            else if (codigo == 3)
+            {
+                valor = 5;
+            }
+            else if (codigo == 4)
+            {
+                valor = 2;
+            }
+            else if (codigo == 5)
+            {
+                valor = 1.5;
+            }
+            total = valor * qtd;
+            Console.WriteLine($"Total: R$ {total:F2}");
 
         }
     }
