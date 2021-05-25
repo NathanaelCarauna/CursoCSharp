@@ -50,5 +50,29 @@ namespace LogicaDeProgramacao
                 Console.WriteLine("Não sao Multiplos");
             }
         }
+
+        internal void Ex4()
+        {
+            string[] s = Console.ReadLine().Split(' ');
+            int inicio, fim, duracao = 0;
+            inicio = int.Parse(s[0]);
+            fim = int.Parse(s[1]);
+
+
+            if (inicio == fim)
+            {
+                duracao = 24;
+            }
+            else if (inicio < fim)
+            {
+                duracao = fim - inicio;
+            }
+            else
+            {
+                duracao = fim + 24 - inicio;
+            }
+            Console.WriteLine("O JOGO DUROU {0} HORA(S)", duracao);
+
+        }
     }
 }
