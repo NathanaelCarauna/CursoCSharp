@@ -14,7 +14,7 @@ namespace LogicaDeProgramacao
             //DataInput dataInput = new DataInput();
             //dataInput.Exercicio();
             //Console.WriteLine("----------------------------FIM EX2----------------------");
-            Console.WriteLine("\n############################EXERCÍCIOS PROPOSTOS######################");
+            //Console.WriteLine("\n############################Estrutura Sequencial######################");
             //EstruturaSequencialExPropostos estrutura = new EstruturaSequencialExPropostos();
             //estrutura.Ex1();
             //estrutura.Ex2();
@@ -22,7 +22,8 @@ namespace LogicaDeProgramacao
             //estrutura.Ex4();
             //estrutura.Ex5();
             //estrutura.Ex6();
-            EstruturaCondicionalExPropostos exercicios = new EstruturaCondicionalExPropostos();
+            //Console.WriteLine("\n############################Estrutura Condicional######################");
+            //EstruturaCondicionalExPropostos exercicios = new EstruturaCondicionalExPropostos();
             //exercicios.Ex1();
             //exercicios.Ex2();
             //exercicios.Ex3();
@@ -30,7 +31,10 @@ namespace LogicaDeProgramacao
             //exercicios.Ex5();
             //exercicios.Ex6();
             //exercicios.Ex7();
-            exercicios.Ex8();
+            //exercicios.Ex8();
+            Console.WriteLine("\n############################Estrutura While######################");
+            EstruturaWhile estruturaWhile = new EstruturaWhile();
+            estruturaWhile.Ex1();
         }
     }
 }
