@@ -41,7 +41,8 @@ namespace LogicaDeProgramacao
             EstruturaFor estrutraFor = new EstruturaFor();
             //estrutraFor.Ex1();
             //estrutraFor.Ex2();
-            estrutraFor.Ex3();
+            //estrutraFor.Ex3();
+            estrutraFor.Ex4();
         }
     }
 }

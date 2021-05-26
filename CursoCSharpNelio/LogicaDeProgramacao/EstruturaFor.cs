@@ -42,5 +42,27 @@ namespace LogicaDeProgramacao
                 Console.WriteLine(media.ToString("F1"));
             }
         }
+
+        internal void Ex4()
+        {
+            int x = int.Parse(Console.ReadLine());
+            string[] s;
+            int v1, v2;
+            for(int i = 0; i < x; i++)
+            {
+                s = Console.ReadLine().Split(' ');
+                v1 = int.Parse(s[0]);
+                v2 = int.Parse(s[1]);
+                if (v2 == 0)
+                {
+                    Console.WriteLine("Divisão impossível");
+                }
+                else
+                {
+                    double resultado = (double)v1 / v2;
+                    Console.WriteLine(resultado.ToString("F1"));
+                }
+            }
+        }
     }
 }
