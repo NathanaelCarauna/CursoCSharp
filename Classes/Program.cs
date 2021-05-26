@@ -26,7 +26,10 @@ namespace Classes
             //l2ex3.Exercicio3();
 
             //-----------------------Lista3
-            Lista3.Ex1.Exercicio1();
+            //Lista3.Ex1.Exercicio1();
+
+            //-----------------------Lista4
+            Lista4.Ex1.Exercicio1();
         }
     }
 }
