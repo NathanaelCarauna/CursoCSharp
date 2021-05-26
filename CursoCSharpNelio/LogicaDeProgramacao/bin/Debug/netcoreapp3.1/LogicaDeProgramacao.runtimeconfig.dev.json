@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\Midiavox\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Midiavox\\.nuget\\packages"
-    ]
-  }
-}
