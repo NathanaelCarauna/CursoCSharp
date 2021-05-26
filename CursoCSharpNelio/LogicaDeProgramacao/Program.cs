@@ -35,7 +35,8 @@ namespace LogicaDeProgramacao
             Console.WriteLine("\n############################Estrutura While######################");
             EstruturaWhile estruturaWhile = new EstruturaWhile();
             //estruturaWhile.Ex1();
-            estruturaWhile.Ex2();
+            //estruturaWhile.Ex2();
+            estruturaWhile.Ex3();
         }
     }
 }

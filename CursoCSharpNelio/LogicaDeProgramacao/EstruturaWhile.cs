@@ -55,5 +55,23 @@ namespace LogicaDeProgramacao
                 y = int.Parse(entrada[1]);
             }
         }
+
+        internal void Ex3()
+        {
+            int alcool, gasolina, diesel;
+            alcool = gasolina = diesel = 0;
+            int codigo = int.Parse(Console.ReadLine());
+            while (codigo != 4)
+            {
+                if (codigo == 1) alcool++;
+                if (codigo == 2) gasolina++;
+                if (codigo == 3) diesel++;
+                codigo = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("MUITO OBRIGADO");
+            Console.WriteLine($"Alcool: {alcool}");
+            Console.WriteLine($"Gasolina: {gasolina}");
+            Console.WriteLine($"Diesel: {diesel}");
+        }
     }
 }
