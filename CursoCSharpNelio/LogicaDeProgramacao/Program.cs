@@ -40,7 +40,8 @@ namespace LogicaDeProgramacao
             Console.WriteLine("\n############################Estrutura For######################");
             EstruturaFor estrutraFor = new EstruturaFor();
             //estrutraFor.Ex1();
-            estrutraFor.Ex2();
+            //estrutraFor.Ex2();
+            estrutraFor.Ex3();
         }
     }
 }
