@@ -64,5 +64,16 @@ namespace LogicaDeProgramacao
                 }
             }
         }
+
+        internal void Ex5()
+        {
+            int fat = int.Parse(Console.ReadLine());
+            int resultado = 1;
+            for(int i = fat; i > 0; i--)
+            {
+                resultado *= i;
+            }
+            Console.WriteLine(resultado);
+        }
     }
 }

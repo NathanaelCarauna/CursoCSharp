@@ -42,7 +42,8 @@ namespace LogicaDeProgramacao
             //estrutraFor.Ex1();
             //estrutraFor.Ex2();
             //estrutraFor.Ex3();
-            estrutraFor.Ex4();
+            //estrutraFor.Ex4();
+            estrutraFor.Ex5();
         }
     }
 }
