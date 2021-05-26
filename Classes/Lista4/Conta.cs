@@ -16,10 +16,8 @@ namespace Classes.Lista4
             NumeroDaConta = numeroDaConta;
         }
 
-        public Conta(string titular, string numeroDaConta, double saldo)
-        {
-            Titular = titular;
-            NumeroDaConta = numeroDaConta;
+        public Conta(string titular, string numeroDaConta, double saldo) : this(titular, numeroDaConta)
+        {            
             Saldo = saldo;
         }
 
