@@ -76,6 +76,7 @@ namespace LogicaDeProgramacao
             Console.WriteLine(resultado);
         }
 
+
         internal void Ex6()
         {
             int x = int.Parse(Console.ReadLine());
@@ -85,6 +86,14 @@ namespace LogicaDeProgramacao
                 {
                     Console.WriteLine(i);
                 }
+            }
+        }
+        internal void Ex7()
+        {
+            int x = int.Parse(Console.ReadLine());
+            for(int i= 1; i <= 5; i++)
+            {
+                Console.WriteLine($"{i} {i*i} {i*i*i}");
             }
         }
     }
