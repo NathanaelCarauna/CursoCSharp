@@ -32,11 +32,14 @@ namespace LogicaDeProgramacao
             //exercicios.Ex6();
             //exercicios.Ex7();
             //exercicios.Ex8();
-            Console.WriteLine("\n############################Estrutura While######################");
-            EstruturaWhile estruturaWhile = new EstruturaWhile();
+            //Console.WriteLine("\n############################Estrutura While######################");
+            //EstruturaWhile estruturaWhile = new EstruturaWhile();
             //estruturaWhile.Ex1();
             //estruturaWhile.Ex2();
-            estruturaWhile.Ex3();
+            //estruturaWhile.Ex3();
+            Console.WriteLine("\n############################Estrutura For######################");
+            EstruturaFor estrutraFor = new EstruturaFor();
+            estrutraFor.Ex1();
         }
     }
 }
