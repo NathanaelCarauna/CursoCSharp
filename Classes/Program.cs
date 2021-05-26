@@ -22,8 +22,11 @@ namespace Classes
             //Lista2.Ex2.Ex2 l2ex2 = new Lista2.Ex2.Ex2();
             //l2ex2.Exercicio2();
 
-            Lista2.Ex3.Ex3 l2ex3 = new Lista2.Ex3.Ex3();
-            l2ex3.Exercicio3();
+            //Lista2.Ex3.Ex3 l2ex3 = new Lista2.Ex3.Ex3();
+            //l2ex3.Exercicio3();
+
+            //-----------------------Lista3
+            Lista3.Ex1.Exercicio1();
         }
     }
 }
