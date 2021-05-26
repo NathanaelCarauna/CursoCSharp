@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {}
+    "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj": {
+    "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
-        "projectName": "LogicaDeProgramacao",
-        "projectPath": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\LogicaDeProgramacao\\LogicaDeProgramacao.csproj",
+        "projectUniqueName": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\Classes\\Classes.csproj",
+        "projectName": "Classes",
+        "projectPath": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\Nathanael\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\LogicaDeProgramacao\\obj\\",
+        "outputPath": "C:\\Users\\Nathanael\\Desktop\\Pessoal\\Estudos\\C#\\CursoCSharp\\CursoCSharpNelio\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
