@@ -1,4 +1,5 @@
 ﻿using ComportamentoDeMemoria.Exercicio01;
+using ComportamentoDeMemoria.Exercicio02;
 using System;
 
 namespace ComportamentoDeMemoria
@@ -7,7 +8,8 @@ namespace ComportamentoDeMemoria
     {
         static void Main(string[] args)
         {
-            Pensionato.Alugar();
+            //Pensionato.Alugar();
+            Company.Manegement();
         }
     }
 }
