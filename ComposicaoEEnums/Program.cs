@@ -6,7 +6,8 @@ namespace ComposicaoEEnums
     {
         static void Main(string[] args)
         {
-            Exercicio01.Ex01.Exercicio01();
+            //Exercicio01.Ex01.Exercicio01();
+            Exercicio02.Ex02.Exercicio02();
         }
     }
 }
