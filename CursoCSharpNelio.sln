@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComportamentoDeMemoria", "ComportamentoDeMemoria\ComportamentoDeMemoria.csproj", "{DB433C34-D2C2-4F62-9BA6-6616A08C5B17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposicaoEEnums", "ComposicaoEEnums\ComposicaoEEnums.csproj", "{751D6D50-7183-4CDE-8A30-61137783C844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComposicaoEEnums", "ComposicaoEEnums\ComposicaoEEnums.csproj", "{751D6D50-7183-4CDE-8A30-61137783C844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{751D6D50-7183-4CDE-8A30-61137783C844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{751D6D50-7183-4CDE-8A30-61137783C844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{751D6D50-7183-4CDE-8A30-61137783C844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
