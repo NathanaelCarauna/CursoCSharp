@@ -8,7 +8,8 @@ namespace Inheritance
         {
             //Exercicio01.Ex01.Exercicio01();
             //Exercicio02.Ex02.Exercicio02();
-            Exercicio03.Ex03.Exercicio03();
+            //Exercicio03.Ex03.Exercicio03();
+            Exercicio04.Ex04.Exercicio04();
         }
     }
 }
