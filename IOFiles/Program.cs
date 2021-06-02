@@ -18,6 +18,8 @@ namespace IOFiles
 
                 string appDirectory = Environment.CurrentDirectory + @"../../../../";
                 string csvFile = appDirectory + @"/csvFolder/itemsSold.csv";
+                string outFolder = appDirectory + @"/csvFolder/out";
+                Directory.CreateDirectory(outFolder);
                 string targetFile = appDirectory + "csvFolder/out/summary.csv";
 
                 using (StreamReader sr = File.OpenText(csvFile))
