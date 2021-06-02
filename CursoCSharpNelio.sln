@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComposicaoEEnums", "Composi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{7F06EC4B-A99F-4901-82A8-6608E6FFDDAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{63448109-7EB7-4348-AF97-C8FD998AB2A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exceptions", "Exceptions\Exceptions.csproj", "{63448109-7EB7-4348-AF97-C8FD998AB2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOFiles", "IOFiles\IOFiles.csproj", "{2FA63B06-03D1-484F-AE39-19BA4D49F311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{63448109-7EB7-4348-AF97-C8FD998AB2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63448109-7EB7-4348-AF97-C8FD998AB2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63448109-7EB7-4348-AF97-C8FD998AB2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA63B06-03D1-484F-AE39-19BA4D49F311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA63B06-03D1-484F-AE39-19BA4D49F311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA63B06-03D1-484F-AE39-19BA4D49F311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA63B06-03D1-484F-AE39-19BA4D49F311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
