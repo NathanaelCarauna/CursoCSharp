@@ -23,16 +23,16 @@ namespace GenericsAndCollections.Ex01.Services
             }
         }
 
-        public static HashSet<User> BuildHashSet(string data)
+        public static HashSet<LogRecord> BuildHashSet(string data)
         {
-            HashSet<User> hash = new HashSet<User>();
+            HashSet<LogRecord> hash = new HashSet<LogRecord>();
             string[] lines = data.Split('\n');
             foreach(var line in lines)
             {
                 string[] lineSplit = line.Split(' ');
                 string name = lineSplit[0];
                 DateTime accessDate = DateTime.Parse(lineSplit[1]);
-                hash.Add(new User(name, accessDate));
+                hash.Add(new LogRecord(name, accessDate));
             }
 
             return hash;

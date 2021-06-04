@@ -4,12 +4,12 @@ using System.Text;
 
 namespace GenericsAndCollections.Ex01.Entities
 {
-    class User
+    class LogRecord
     {
         public string Name { get; set; }
         public DateTime AccessDate { get; set; }
 
-        public User(string name, DateTime accessDate)
+        public LogRecord(string name, DateTime accessDate)
         {
             Name = name;
             AccessDate = accessDate;
@@ -26,11 +26,11 @@ namespace GenericsAndCollections.Ex01.Entities
 
         public override bool Equals(object obj)
         {
-            if(!(obj is User))
+            if(!(obj is LogRecord))
             {
                 return false;
             }
-            User other = obj as User;
+            LogRecord other = obj as LogRecord;
             return Name.Equals(other.Name);
         }
     }

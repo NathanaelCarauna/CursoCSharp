@@ -13,7 +13,7 @@ namespace GenericsAndCollections.Ex01
             Console.Write("Enter file full path: ");
             string path = Console.ReadLine();
             string data = ProcessLogService.ReadLogFile(path);
-            HashSet<User> set = ProcessLogService.BuildHashSet(data);
+            HashSet<LogRecord> set = ProcessLogService.BuildHashSet(data);
             Console.WriteLine("Number of diferent users: " + set.Count);
             foreach(var user in set)
             {
