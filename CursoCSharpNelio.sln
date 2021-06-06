@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IOFiles", "IOFiles\IOFiles.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{1E936450-747E-4206-86D4-6C1A882ECA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsAndCollections", "GenericsAndCollections\GenericsAndCollections.csproj", "{A257B7DB-F7D6-4E88-BB81-87C2C2D1D17D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsAndCollections", "GenericsAndCollections\GenericsAndCollections.csproj", "{A257B7DB-F7D6-4E88-BB81-87C2C2D1D17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaLinq", "LambdaLinq\LambdaLinq.csproj", "{24A8E3D2-147F-49BB-8014-F95BAA2680D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{A257B7DB-F7D6-4E88-BB81-87C2C2D1D17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A257B7DB-F7D6-4E88-BB81-87C2C2D1D17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A257B7DB-F7D6-4E88-BB81-87C2C2D1D17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A8E3D2-147F-49BB-8014-F95BAA2680D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A8E3D2-147F-49BB-8014-F95BAA2680D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A8E3D2-147F-49BB-8014-F95BAA2680D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A8E3D2-147F-49BB-8014-F95BAA2680D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
